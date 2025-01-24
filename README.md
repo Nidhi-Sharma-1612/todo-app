@@ -35,7 +35,7 @@ This project is a feature-rich **React To-Do Application** that showcases modern
 
 ## Deployment
 
-Access the deployed application here: [Deployed To-Do App](YOUR_DEPLOYED_LINK)
+Access the deployed application here: [Deployed To-Do App](https://todo-app-alpha-taupe.vercel.app/login)
 
 ## Screenshots
 
@@ -53,7 +53,7 @@ Access the deployed application here: [Deployed To-Do App](YOUR_DEPLOYED_LINK)
 
 ### Completed List
 
-![Add Task](assets/completed-task.png)
+![Completed Task](assets/completed-list.png)
 
 ## Setup and Running Instructions
 
