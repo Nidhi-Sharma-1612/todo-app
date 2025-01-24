@@ -1,7 +1,6 @@
-/* eslint-disable no-unused-vars */
 import { createSlice, createAsyncThunk } from "@reduxjs/toolkit";
 
-const API_KEY = "6af205302ce87b78cc7934eb1bec6859";
+const API_KEY = import.meta.env.VITE_WEATHER_API_KEY;
 
 export const fetchWeather = createAsyncThunk(
   "weather/fetchWeather",
